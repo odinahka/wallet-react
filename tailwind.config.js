@@ -5,9 +5,6 @@ module.exports = {
     debugScreens:{
       position: ['top', 'left']
     },
-    fontFamily:{
-      Poppins: ['Poppins', 'sans-serif']
-    },
     container:{
       center: true,
       padding: {
@@ -19,6 +16,10 @@ module.exports = {
       }
     },
     extend: {
+    fontFamily:{
+      poppins: ['Poppins', 'sans-serif'],
+      dm: ['"DM Serif Text"', 'serif' ]
+    },
       animation:{
         blob: 'blob 7s infinite'
       },
