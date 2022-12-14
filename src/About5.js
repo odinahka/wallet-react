@@ -3,9 +3,9 @@ import React from 'react';
 const About5 = () => {
     return (
         <div className='h-screen w-screen bg-wallet_black'>
-            <div className='h-4 w-screen bg-white'/>
+            <div className='h-8 w-screen bg-white'/>
             <div className='container text-white flex flex-col items-stretch justify-between'>
-                <div className='mt-10 pt-20'>
+                <div className='mt-10 pt-12'>
                     <h2 className='opacity-60'>
                         What our customers are saying...
                     </h2>
