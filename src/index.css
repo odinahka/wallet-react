@@ -25,7 +25,7 @@
     @apply mb-2 text-base sm:text-lg md:text-xl xl:text-2xl;
   }
   p{
-    @apply text-xs sm:text-sm md:text-base lg:text-lg ;
+    @apply text-xs sm:text-sm md:text-base;
   }
   button{
     @apply text-xs sm:text-sm md:text-base lg:text-lg;
