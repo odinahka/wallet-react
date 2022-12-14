@@ -11,7 +11,7 @@ const About4 = () => {
                 </div>
                 <div className='bg-wallet_green bg-opacity-30 mt-4 h-4/5 container'/>
                 <div className=' container mx-auto flex-1 flex items-center justify-center mt-2'>
-                    <p className='text-center pb-10'>Lorem ipsum dolor sit amet, consectetur adispiscing elit, sed do euismod tempor incididunt ut labore et dolore magna aliqua. Ut enim. Lorem ipsum dolor sit amet, consecteur adispiscing elit,</p>
+                    <p className='text-center mb-10'>Lorem ipsum dolor sit amet, consectetur adispiscing elit, sed do euismod tempor incididunt ut labore et dolore magna aliqua. Ut enim. Lorem ipsum dolor sit amet, consecteur adispiscing elit,</p>
                 </div>
             </div>
         </div>
